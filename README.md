@@ -2,7 +2,7 @@
 
 _Python Bootcamp for Data week 4 assignment_
 
-This week, you learned the basics of Python testing. From a brief overview of the standard library to using a more modern approach with Pytest, one of the most popular testing libraries in Python. You'll use that knowledge to complete the assignment in this repository, where you'll write tests, fix broken tests, and debug issues in real-world code.
+ This week you learned how to work with data using Pandas and NumPy. From loading and reading datasets from different sources to plotting graphs and exploring common problems in data. You'll use that knowledge to complete the assignment in this repository using a Jupyter Notebook. The questions are in markdown cells while your work has to go in the code cells. Some variables are pre-defined for you, make sure you don't remove or change them because the automated tests rely on them.
 
 > 💡 This template repository is made for GitHub Classroom delivery, but can be used independently if you want to learn on your own.
 
