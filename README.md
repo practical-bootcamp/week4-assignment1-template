@@ -10,9 +10,9 @@ _Python Bootcamp for Data week 4 assignment_
 
 This repository uses automated grading (or testing). When starting, all automated tests will fail. Your task is to make them all pass.
 
-1. Go to the [tests](./tests) directory and fix the [invalid.py](./tests/invalid.py) so that Pytest automatically collects it.
-1. Update the three tests inside [invalid.py](./tests/invalid.py) so that Pytest can run them.
-1. Go to the [tests/test_util.py](./tests/test_util.py) test file and fix the three tests that aren't passing.
+1. Go to the [assignment.ipynb](./assignment.ipynb) Jupyter Notebook and go through each of the question sections.
+1. Follow the instructions for each code cell. Sometimes a new variable needs to be created. Other times a pre-created variable must be reused. 
+1. Every time you push it will trigger automated tests. Each section might represent a few tests. **Ensure you don't change the variable names**.
 1. Repeat the fix/push/verify cycle until all tests are passing and the [actions](/../../actions) tab shows a green.
 
 > 💡 As part of the GitHub Classroom setup, you might get an automated Pull Request created for direct feedback by your Professor or by the TAs.
