@@ -10,6 +10,7 @@ _Python Bootcamp for Data week 4 assignment_
 
 This repository uses automated grading (or testing). When starting, all automated tests will fail. Your task is to make them all pass.
 
+1. This repository has a `requirements.txt` file that you will need to install in your system. Use `python -m venv venv` and then `source venv/bin/activate`. Use [these instructions](https://docs.python.org/3/library/venv.html) for other systems. Finally, use `pip -r requirements.txt` to install the dependencies
 1. Go to the [assignment.ipynb](./assignment.ipynb) Jupyter Notebook and go through each of the question sections.
 1. Follow the instructions for each code cell. Sometimes a new variable needs to be created. Other times a pre-created variable must be reused. 
 1. Every time you push it will trigger automated tests. Each section might represent a few tests. **Ensure you don't change the variable names**.
